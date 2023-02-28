@@ -120,7 +120,7 @@ function getFiveDay() {
       cardTitle.text(response.city.name)
       cardDate.text(response.list[i].dt_txt)
       cardTemp.text(response.list[i].main.temp + " degrees")
-      weatherIcon.attr('src', '  http://openweathermap.org/img/w/' +response.list[i].weather[0].icon+'.png') 
+      weatherIcon.attr('src', '  https://openweathermap.org/img/w/' +response.list[i].weather[0].icon+'.png') 
      cardWeather.text(response.list[i].weather[0].main)
     cardWindSpeed.text(response.list[i].wind.speed  + ' mph')
     cardHumidity.text(response.list[i].main.humidity + ' g.m-3')
