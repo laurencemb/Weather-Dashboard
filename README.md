@@ -1,7 +1,6 @@
 # Weather Directory
 ---------------------------------------------------------
-
-[!](/assets/Screenshot%202023-02-28%20102549.jpg)
+![screenshot of delpoyed site](/assets/Screenshot%202023-02-28%20102549.jpg)
 
 ______________________________________________________________
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
