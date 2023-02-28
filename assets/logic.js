@@ -27,7 +27,7 @@ $(".search-button").on("click", function (event) {
 
 function cityLonLat() {
   let queryURL =
-    "http://api.openweathermap.org/geo/1.0/direct?q=" +
+    "https://api.openweathermap.org/geo/1.0/direct?q=" +
     city +
     "&limit=1&appid=9481f6f32f0743b787311fa853b1bc28";
 
